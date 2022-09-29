@@ -5,7 +5,7 @@
 - 📫 How to reach me Instagram: yasrirazak_
 
 My Portfolio
-Eksplorasi Data dengan Pandas - https://github.com/yasrirazak/yasrirazak/blob/main/order_062022.ipynb
+Eksplorasi Data dengan Pandas - <a href="https://github.com/yasrirazak/yasrirazak/blob/main/order_062022.ipynb">Eksplorasi Data dengan Pandas</a>
 
 <!---
 yasrirazak/yasrirazak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
