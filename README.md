@@ -10,7 +10,7 @@ Klasifikasi dan Prediksi Dataset Iris dengan KMeans dan KNN - <a href="https://m
 Visualisai Data Penjualan Shopee Menggunakan Looker Studio - <a href="https://medium.com/@yasrirazak/visualisai-data-penjualan-shopee-menggunakan-looker-studio-41e4ee6e4182">Visualisai Data Penjualan Shopee Menggunakan Looker Studio</a> </br>
 Analisis Data Exploratif Pesanan Shopee Menggunakan Google BigQuery - <a href="https://medium.com/@yasrirazak/analisis-data-exploratif-pesanan-shopee-menggunakan-google-bigquery-d7ec28d89fe3">Analisis Data Exploratif Pesanan Shopee Menggunakan Google BigQuery</a> </br>
 Visualisai Data dengan Tableu - <a href="https://drive.google.com/file/d/1n-5EP1tD-ZV1xJblkrV7TI0hQl0viUfv/view?usp=share_link">Visualisai Data dengan Tableu</a></br>
-
+Prediksi Anemia Menggunakan Algoritma Logistic Regression - <a href="https://github.com/yasrirazak/yasrirazak/blob/main/anemic_predictions_using_logistic_regressions.ipynb">Prediksi Penyakit Anemia Menggunakan Algoritma Logistic Regression</a> </br>
 <!---
 yasrirazak/yasrirazak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
