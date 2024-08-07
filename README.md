@@ -11,7 +11,7 @@ Visualisai Data Penjualan Shopee Menggunakan Looker Studio - <a href="https://me
 Analisis Data Exploratif Pesanan Shopee Menggunakan Google BigQuery - <a href="https://medium.com/@yasrirazak/analisis-data-exploratif-pesanan-shopee-menggunakan-google-bigquery-d7ec28d89fe3">Analisis Data Exploratif Pesanan Shopee Menggunakan Google BigQuery</a> </br>
 Visualisai Data dengan Tableu - <a href="https://drive.google.com/file/d/1n-5EP1tD-ZV1xJblkrV7TI0hQl0viUfv/view?usp=share_link">Visualisai Data dengan Tableu</a></br>
 Prediksi Anemia Menggunakan Algoritma Logistic Regression - <a href="https://github.com/yasrirazak/yasrirazak/blob/main/anemic_predictions_using_logistic_regressions.ipynb">Prediksi Penyakit Anemia Menggunakan Algoritma Logistic Regression</a> </br>
-Deployment Model Menggunakan Pickle dan Streamlit - <a href="[https://github.com/yasrirazak/yasrirazak/blob/main/anemic_predictions_using_logistic_regressions.ipynb](https://medium.com/@yasrirazak/deployment-model-menggunakan-pickle-dan-streamlit-65c90c2b895b)">Prediksi Deployment Model Menggunakan Pickle dan Streamlit</a> </br>
+Deployment Model Menggunakan Pickle dan Streamlit - <a href="https://medium.com/@yasrirazak/deployment-model-menggunakan-pickle-dan-streamlit-65c90c2b895b">Prediksi Deployment Model Menggunakan Pickle dan Streamlit</a> </br>
 
 <!---
 yasrirazak/yasrirazak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
