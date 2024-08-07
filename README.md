@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Science Team
 - 📫 How to reach me Instagram: yasrirazak_
 
-My data sciences projects are available at:
+My data sciences projects are available at:</br>
 Eksplorasi Data dengan Pandas - <a href="https://github.com/yasrirazak/yasrirazak/blob/main/order_062022.ipynb">Eksplorasi Data dengan Pandas</a> </br>
 Klasifikasi dan Prediksi Dataset Iris dengan KMeans dan KNN - <a href="https://medium.com/@yasrirazak/klasifikasi-dan-prediksi-dataset-iris-dengan-kmeans-dan-knn-dbca7e9450b4">Klasifikasi dan Prediksi Dataset Iris dengan KMeans dan KNN</a> </br>
 Visualisai Data Penjualan Shopee Menggunakan Looker Studio - <a href="https://medium.com/@yasrirazak/visualisai-data-penjualan-shopee-menggunakan-looker-studio-41e4ee6e4182">Visualisai Data Penjualan Shopee Menggunakan Looker Studio</a> </br>
